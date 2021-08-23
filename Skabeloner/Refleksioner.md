@@ -1,14 +1,10 @@
-# Refleksioner  *(EKSEMPEL)*
+# Refleksioner 
 
-## Niveau 2 - Opgave 02
+## Niveau 1 - Opgave 03
 
-Den var lidt svær, fordi der var flere produkter, som hver især havde en plus- og minusknap til antallet.
+Den var lidt svær, fordi man skulle bruge et parameter til at finde et element og at man selv skal finde på noget HTML som passer til opgaven. Det er svært at forstå opgaven.
 
-Jeg valgte at starte med at fokusere på ét af produkterne og fik også knapperne til at ændre på antallet uden problemer.
-
-Jeg pushede denne version til GitHub og gik i gang med at kode funktionaliten til de andre produkters knapper, men det gik desværre ikke så godt. Jeg nåede ikke at finde en løsning.
-
-## Niveau 2 - Opgave 01
+## Niveau 1 - Opgave 02
 
 Denne opgave var lidt sværere end den anden og jeg er ikke helt sikker på hvordan den skulle se ud på nogen måder og den var samtidig meget forvirrende. 
 
