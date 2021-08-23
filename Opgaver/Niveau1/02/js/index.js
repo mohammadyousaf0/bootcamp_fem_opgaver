@@ -2,12 +2,15 @@
 
 // N1 - 02
 document.addEventListener("DOMContentLoaded", () => {
-  const resultat = document.querySelector("#result");
+  const resultatet = document.querySelector("#result");
+  var resultat = 1.3333333333333333;
 
   function beregnForhold(a, b) {
     document.getElementById("result").innerHTML = 4 / 3;
-    return resultat;
+    return resultatet;
   }
 
   beregnForhold();
+
+  console.log(resultat);
 }); // Afslutter: DOMContentLoaded
