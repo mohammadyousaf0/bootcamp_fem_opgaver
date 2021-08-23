@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const resultat = document.querySelector("#result");
 
   function beregnForhold(a, b) {
-    document.getElementById("result").innerHTML = a / b;
+    document.getElementById("result").innerHTML = 4 / 3;
     return resultat;
   }
 
