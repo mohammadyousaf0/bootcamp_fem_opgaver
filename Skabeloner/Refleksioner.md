@@ -4,7 +4,7 @@
 
 ## Niveau 2 - Opgave 01
 
-Denne er sværere end de andre. Da jeg læste opgavebeskrivelsen så det nemt nok ud, men det er meget mere kompliceret og ved ikke helt hvordan det skal hænge sammen især med javascript.
+Denne er sværere end de andre. Da jeg læste opgavebeskrivelsen så det nemt nok ud, men det er meget mere kompliceret og ved ikke helt hvordan det skal hænge sammen især med javascript. Jeg har brugt en masse tid og googlet en helt masse for at finde frem til et svar. Nåede kun frem til at en af knapperne virkede.
 
 ## Niveau 1 - Opgave 03
 
