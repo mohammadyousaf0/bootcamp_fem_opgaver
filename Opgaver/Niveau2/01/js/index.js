@@ -2,5 +2,11 @@
 
 // N2 - 01
 document.addEventListener("DOMContentLoaded", () => {
- 
+  document.querySelector('#buttons').onclick = changeColor;   
+
+    function changeColor() {
+        document.body.style.color = "purple";
+        return false;
+    } 
+
 }); // Afslutter: DOMContentLoaded
