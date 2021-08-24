@@ -2,9 +2,13 @@
 
 // N1 - 02
 document.addEventListener("DOMContentLoaded", () => {
-  const list = document.querySelector("#hej");
+  const helloText = document.getElementById('hello');
+  const list = document.getElementById('list');
 
   function skjulElementViaCssSelector(cssSelector) {
-    list.style.display = "none";
+    helloText.style.display = "none";
+    list.style.display ="none";
   }
+
+  skjulElementViaCssSelector();
 }); // Afslutter: DOMContentLoaded
