@@ -4,6 +4,8 @@
 
 ## Niveau 2 - Opgave 01
 
+Denne er sværere end de andre. Da jeg læste opgavebeskrivelsen så det nemt nok ud, men det er meget mere kompliceret og ved ikke helt hvordan det skal hænge sammen især med javascript.
+
 ## Niveau 1 - Opgave 03
 
 Den var lidt svær, fordi man skulle bruge et parameter til at finde et element og at man selv skal finde på noget HTML som passer til opgaven. Det var lidt forvirring, men endte med at fikse det.
